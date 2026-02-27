@@ -6,7 +6,7 @@ Summary:	JSONSchema Spec with object-oriented paths
 URL:		https://pypi.org/project/jsonschema_path/
 License:	Apache-2.0
 Group:		Development/Python
-BuildRequires:	python
+BuildRequires:	python%{pyver}dist(poetry-core)
 BuildSystem:	python
 BuildArch:	noarch
 
