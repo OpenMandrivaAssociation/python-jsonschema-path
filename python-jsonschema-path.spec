@@ -1,7 +1,7 @@
 %define module jsonschema_path
 
 Name:		python-jsonschema-path
-Version:	0.4.5
+Version:	0.4.6
 Release:	1
 Summary:	JSONSchema Spec with object-oriented paths
 License:	Apache-2.0
