@@ -2,7 +2,7 @@
 
 Name:		python-jsonschema-path
 Version:	0.5.0
-Release:	1
+Release:	2
 Summary:	JSONSchema Spec with object-oriented paths
 License:	Apache-2.0
 Group:		Development/Python
